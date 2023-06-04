@@ -1,1 +1,1 @@
-# ScryptLangusges
+# ScryptLanguages
